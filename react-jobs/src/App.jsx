@@ -1,12 +1,11 @@
-import NavBar from "./components/NavBar";
-
 import React from "react";
+
+import NavBar from "./components/NavBar";
 
 const App = () => {
   return (
     <>
       <NavBar />
-      
 
       {/* <!-- Hero --> */}
       <section className="bg-indigo-700 py-20 mb-4">
